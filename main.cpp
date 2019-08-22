@@ -51,7 +51,7 @@ int main (int, char * []){
     //17 --> Segmentation ... Flata iniciar el puntero
     //18 --> 18
     //19 --> recorre un string de atrás para adelante y la llena con el caracter vacío
-    //20 --> elimina las comas de una cadena
+    //20 --> elimina las comas de una cadena y pone un espacio
     
     return 1;
 }
